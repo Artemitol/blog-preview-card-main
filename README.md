@@ -1,5 +1,5 @@
 # Result
-> here you can see the final result of my work. I created this ui block which created for the blog on some **educational** platform 
+here you can see the final result of my work. I created this ui block which created for the blog on some **educational** platform 
 
 ![alt text](image.png)
 
